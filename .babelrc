@@ -1,0 +1,1 @@
+{ "presets": [ "/Users/liupengke/workspace/github-newton/node_modules/babel-preset-env" ], "plugins": ["/Users/liupengke/workspace/github-newton/node_modules/babel-plugin-transform-runtime","/Users/liupengke/workspace/github-newton/node_modules/babel-plugin-transform-object-rest-spread"], "comments": false }
