@@ -1,7 +1,6 @@
 支持
-android>=4.1,ios>=8,ie>=9,chrome>=50
-在babeljs\autoprefixer工具使用时，使用这个浏览器标准
-其中android>=4.1,ios>=8,ie>=9，是我们产品要求，
+chrome>=50,android>=4.4,ios>=9.3,ie>=9,safari>=10.1
+
 chrome>=50，是现在流行的浏览器，webkit内核最低的版本
 支持越少越高级的浏览器，可以让最后的代码越小，编译速度越快
 
